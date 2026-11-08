@@ -1,6 +1,6 @@
+wwwroot\Index.html
 wwwroot\maplibre-gl.css
 wwwroot\maplibre-gl.js
-wwwroot\Index.html
-D:\MbTileServer\MbTileServer\wwwroot\maplibre-gl.css
-D:\MbTileServer\MbTileServer\wwwroot\maplibre-gl.js
-D:\MbTileServer\MbTileServer\wwwroot\Index.html
+D:\Storage\Canal Youtube\Código, Hardware e Cia\Github\GloboOffline\MbTileServer\MbTileServer\wwwroot\maplibre-gl.js
+D:\Storage\Canal Youtube\Código, Hardware e Cia\Github\GloboOffline\MbTileServer\MbTileServer\wwwroot\maplibre-gl.css
+D:\Storage\Canal Youtube\Código, Hardware e Cia\Github\GloboOffline\MbTileServer\MbTileServer\wwwroot\Index.html

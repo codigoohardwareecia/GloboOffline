@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CQEnN68i3Lc=",
+  "dgSpecHash": "U+qhCNliFqI=",
   "success": true,
-  "projectFilePath": "D:\\MbTileServer\\MbTileServer\\MbTileServer.csproj",
+  "projectFilePath": "D:\\Storage\\Canal Youtube\\Código, Hardware e Cia\\Github\\GloboOffline\\MbTileServer\\MbTileServer\\MbTileServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\principal\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
     "C:\\Users\\principal\\.nuget\\packages\\microsoft.data.sqlite\\10.0.14\\microsoft.data.sqlite.10.0.14.nupkg.sha512",

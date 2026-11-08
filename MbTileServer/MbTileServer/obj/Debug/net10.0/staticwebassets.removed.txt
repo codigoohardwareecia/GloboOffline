@@ -1,0 +1,3 @@
+D:\MbTileServer\MbTileServer\wwwroot\maplibre-gl.css
+D:\MbTileServer\MbTileServer\wwwroot\maplibre-gl.js
+D:\MbTileServer\MbTileServer\wwwroot\Index.html

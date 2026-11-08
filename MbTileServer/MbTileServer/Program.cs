@@ -19,7 +19,7 @@ app.UseCors();
 app.UseDefaultFiles();
 app.UseStaticFiles();
 
-string mbtilesPath = @"C:\SeuMapa\mbtiles\2019-09-planet-14.mbtiles";
+string mbtilesPath = @"D:\Mapa\2019-10-south-america-14.mbtiles";
 string pastaMbTilesMaster = Path.Combine(AppContext.BaseDirectory, "MasterMbTiles");
 Directory.CreateDirectory(pastaMbTilesMaster);
 string caminhoMasterMbTiles = Path.Combine(pastaMbTilesMaster, "master_tactical.mbtiles");
@@ -63,7 +63,7 @@ app.MapGet("/data/v3/{z}/{x}/{y}.pbf", async (int z, int x, int y, HttpContext c
 app.MapGet("/fonts/{fontstack}/{range}.pbf", async (string fontstack, string range, HttpContext context) =>
 {
     fontstack = Uri.UnescapeDataString(fontstack);
-    string fontPath = Path.Combine(@"C:\SeuMapa\", "fonts", fontstack, $"{range}.pbf");
+    string fontPath = Path.Combine(@"D:\Mapa\", "fonts", fontstack, $"{range}.pbf");
 
     if (File.Exists(fontPath))
     {

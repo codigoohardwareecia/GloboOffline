@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MbTileServer\\",
+  "WorkspaceRootPath": "D:\\Storage\\Canal Youtube\\C\u00F3digo, Hardware e Cia\\Github\\GloboOffline\\MbTileServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FCFA3E5-AA65-43CB-91C2-91F967D43E5E}|MbTileServer\\MbTileServer.csproj|d:\\mbtileserver\\mbtileserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FCFA3E5-AA65-43CB-91C2-91F967D43E5E}|MbTileServer\\MbTileServer.csproj|solutionrelative:mbtileserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCC5370E-5589-66EF-0EBC-C86A8F19BE5C}|MbTileServer\\MbTileServer.csproj|d:\\storage\\canal youtube\\c\u00F3digo, hardware e cia\\github\\globooffline\\mbtileserver\\mbtileserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC5370E-5589-66EF-0EBC-C86A8F19BE5C}|MbTileServer\\MbTileServer.csproj|solutionrelative:mbtileserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\MbTileServer\\MbTileServer\\Program.cs",
+              "DocumentMoniker": "D:\\Storage\\Canal Youtube\\C\u00F3digo, Hardware e Cia\\Github\\GloboOffline\\MbTileServer\\MbTileServer\\Program.cs",
               "RelativeDocumentMoniker": "MbTileServer\\Program.cs",
-              "ToolTip": "D:\\MbTileServer\\MbTileServer\\Program.cs",
+              "ToolTip": "D:\\Storage\\Canal Youtube\\C\u00F3digo, Hardware e Cia\\Github\\GloboOffline\\MbTileServer\\MbTileServer\\Program.cs",
               "RelativeToolTip": "MbTileServer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-08T19:58:00.144Z",
               "EditorCaption": ""

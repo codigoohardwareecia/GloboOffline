@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MbTileServer\\MbTileServer\\MbTileServer.csproj": {}
+    "D:\\Storage\\Canal Youtube\\Código, Hardware e Cia\\Github\\GloboOffline\\MbTileServer\\MbTileServer\\MbTileServer.csproj": {}
   },
   "projects": {
-    "D:\\MbTileServer\\MbTileServer\\MbTileServer.csproj": {
+    "D:\\Storage\\Canal Youtube\\Código, Hardware e Cia\\Github\\GloboOffline\\MbTileServer\\MbTileServer\\MbTileServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MbTileServer\\MbTileServer\\MbTileServer.csproj",
+        "projectUniqueName": "D:\\Storage\\Canal Youtube\\Código, Hardware e Cia\\Github\\GloboOffline\\MbTileServer\\MbTileServer\\MbTileServer.csproj",
         "projectName": "MbTileServer",
-        "projectPath": "D:\\MbTileServer\\MbTileServer\\MbTileServer.csproj",
+        "projectPath": "D:\\Storage\\Canal Youtube\\Código, Hardware e Cia\\Github\\GloboOffline\\MbTileServer\\MbTileServer\\MbTileServer.csproj",
         "packagesPath": "C:\\Users\\principal\\.nuget\\packages\\",
-        "outputPath": "D:\\MbTileServer\\MbTileServer\\obj\\",
+        "outputPath": "D:\\Storage\\Canal Youtube\\Código, Hardware e Cia\\Github\\GloboOffline\\MbTileServer\\MbTileServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
