@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "CQEnN68i3Lc=",
+  "success": true,
+  "projectFilePath": "D:\\MbTileServer\\MbTileServer\\MbTileServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\principal\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\principal\\.nuget\\packages\\microsoft.data.sqlite\\10.0.14\\microsoft.data.sqlite.10.0.14.nupkg.sha512",
+    "C:\\Users\\principal\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.14\\microsoft.data.sqlite.core.10.0.14.nupkg.sha512",
+    "C:\\Users\\principal\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512",
+    "C:\\Users\\principal\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.14\\microsoft.win32.systemevents.10.0.14.nupkg.sha512",
+    "C:\\Users\\principal\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.13\\sqlitepclraw.bundle_e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\principal\\.nuget\\packages\\sqlitepclraw.core\\2.1.13\\sqlitepclraw.core.2.1.13.nupkg.sha512",
+    "C:\\Users\\principal\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.13\\sqlitepclraw.lib.e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\principal\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.13\\sqlitepclraw.provider.e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\principal\\.nuget\\packages\\system.drawing.common\\10.0.14\\system.drawing.common.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

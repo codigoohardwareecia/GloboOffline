@@ -1,0 +1,6 @@
+@MbTileServer_HostAddress = http://localhost:5155
+
+GET {{MbTileServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
