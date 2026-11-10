@@ -1,0 +1,12 @@
+Nesta pasta vai seu arquivo MBTILE para baixar use os links a seguir, coloque o arquivo que vc baixou nesta pasta.
+Depois altere o arquivo main.go com o caminho correto e o nome do arquivo selecioado
+
+// Link de download com mapas dos continentes
+https://archive.org/download/osm-vector-mbtiles/regions/
+	
+// America do Sul (nivel 14)
+https://archive.org/download/osm-vector-mbtiles/regions/2019-09-north-america-14.mbtiles
+	
+// Planeta (Nivel 14
+https://archive.org/download/osm-vector-mbtiles/2020-10-planet-14.mbtiles
+

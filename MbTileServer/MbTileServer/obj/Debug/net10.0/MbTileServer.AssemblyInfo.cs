@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MbTileServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67574fc010f6ea1d96ebd2bc56d16ae9de48427e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fde97bfbfeb2dc9a41dc1766cf2c1770323775c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MbTileServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MbTileServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
